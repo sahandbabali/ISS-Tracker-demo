@@ -1,3 +1,11 @@
 #mapbox {
       margin: 0 auto;
 }
+
+body {
+      background-color: #1A2E35;
+}
+
+.navbar {
+      background-color: #2B454E !important;
+}
